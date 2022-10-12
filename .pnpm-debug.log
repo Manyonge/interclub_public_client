@@ -1,0 +1,1446 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {},
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3",
+    "virtualStoreDir": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@eslint/create-config/0.3.1",
+    "wanted": {
+      "dependentId": ".",
+      "name": "@eslint/create-config",
+      "rawSpec": "latest"
+    }
+  },
+  "5 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/create-config/0.3.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "6 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "7 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/js-yaml/4.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "8 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/cross-spawn/7.0.3",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "cross-spawn",
+      "rawSpec": "^7.0.2"
+    }
+  },
+  "9 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "10 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "json-stable-stringify-without-jsonify",
+      "rawSpec": "^1.0.1"
+    }
+  },
+  "11 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "12 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/4.3.4",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "debug",
+      "rawSpec": "^4.0.1"
+    }
+  },
+  "13 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/4.3.4",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "14 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/semver/7.3.8",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "semver",
+      "rawSpec": "^7.2.1"
+    }
+  },
+  "15 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/7.3.8",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "16 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/js-yaml/4.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "17 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/cross-spawn/7.0.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "18 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-stable-stringify-without-jsonify/1.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "19 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/debug/4.3.4",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "20 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/semver/7.3.8",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "21 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/enquirer/2.3.6",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "enquirer",
+      "rawSpec": "^2.3.5"
+    }
+  },
+  "22 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/enquirer/2.3.6",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "23 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/enquirer/2.3.6",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "24 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/@eslint/create-config/0.3.1",
+    "size": 9153,
+    "status": "started"
+  },
+  "25 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/create-config/0.3.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "fetched"
+  },
+  "26 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/@eslint/eslintrc/1.3.3",
+    "wanted": {
+      "dependentId": "/@eslint/create-config/0.3.1",
+      "name": "@eslint/eslintrc",
+      "rawSpec": "^1.0.3"
+    }
+  },
+  "27 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/eslintrc/1.3.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "28 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/debug/4.3.4",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "debug",
+      "rawSpec": "^4.3.2"
+    }
+  },
+  "29 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/js-yaml/4.1.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "js-yaml",
+      "rawSpec": "^4.1.0"
+    }
+  },
+  "30 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ms/2.1.2",
+    "wanted": {
+      "dependentId": "/debug/4.3.4",
+      "name": "ms",
+      "rawSpec": "2.1.2"
+    }
+  },
+  "31 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.1.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "32 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ms/2.1.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "33 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/argparse/2.0.1",
+    "wanted": {
+      "dependentId": "/js-yaml/4.1.0",
+      "name": "argparse",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "34 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/argparse/2.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "35 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/argparse/2.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "36 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-command/2.0.0",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "shebang-command",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "37 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "38 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-command/2.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "39 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/which/2.0.2",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "which",
+      "rawSpec": "^2.0.1"
+    }
+  },
+  "40 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "41 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/which/2.0.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "42 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ansi-colors/4.1.3",
+    "wanted": {
+      "dependentId": "/enquirer/2.3.6",
+      "name": "ansi-colors",
+      "rawSpec": "^4.1.1"
+    }
+  },
+  "43 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-colors/4.1.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "44 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ansi-colors/4.1.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "45 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/path-key/3.1.1",
+    "wanted": {
+      "dependentId": "/cross-spawn/7.0.3",
+      "name": "path-key",
+      "rawSpec": "^3.1.0"
+    }
+  },
+  "46 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "47 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/path-key/3.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "48 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/espree/9.4.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "espree",
+      "rawSpec": "^9.4.0"
+    }
+  },
+  "49 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/espree/9.4.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "50 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/lru-cache/6.0.0",
+    "wanted": {
+      "dependentId": "/semver/7.3.8",
+      "name": "lru-cache",
+      "rawSpec": "^6.0.0"
+    }
+  },
+  "51 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lru-cache/6.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "52 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/espree/9.4.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "53 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/lru-cache/6.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "54 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/minimatch/3.1.2",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "minimatch",
+      "rawSpec": "^3.1.2"
+    }
+  },
+  "55 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "56 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/isexe/2.0.0",
+    "wanted": {
+      "dependentId": "/which/2.0.2",
+      "name": "isexe",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "57 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "58 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/shebang-regex/3.0.0",
+    "wanted": {
+      "dependentId": "/shebang-command/2.0.0",
+      "name": "shebang-regex",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "59 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "60 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/import-fresh/3.3.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "import-fresh",
+      "rawSpec": "^3.2.1"
+    }
+  },
+  "61 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/import-fresh/3.3.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "62 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/minimatch/3.1.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "63 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/isexe/2.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "64 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/shebang-regex/3.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "65 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/import-fresh/3.3.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "66 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "strip-json-comments",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "67 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "68 debug pnpm:fetching-progress": {
+    "attempt": 1,
+    "packageId": "registry.npmjs.org/@eslint/eslintrc/1.3.3",
+    "size": 125591,
+    "status": "started"
+  },
+  "69 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/strip-json-comments/3.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "70 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ignore/5.2.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "ignore",
+      "rawSpec": "^5.2.0"
+    }
+  },
+  "71 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore/5.2.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "72 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/globals/13.17.0",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "globals",
+      "rawSpec": "^13.15.0"
+    }
+  },
+  "73 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/globals/13.17.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "74 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/yallist/4.0.0",
+    "wanted": {
+      "dependentId": "/lru-cache/6.0.0",
+      "name": "yallist",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "75 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/yallist/4.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "76 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ignore/5.2.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "77 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/globals/13.17.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "78 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/yallist/4.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "79 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/@eslint/eslintrc/1.3.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "fetched"
+  },
+  "80 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/ajv/6.12.6",
+    "wanted": {
+      "dependentId": "/@eslint/eslintrc/1.3.3",
+      "name": "ajv",
+      "rawSpec": "^6.12.4"
+    }
+  },
+  "81 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ajv/6.12.6",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "82 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/ajv/6.12.6",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "83 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-deep-equal",
+      "rawSpec": "^3.1.1"
+    }
+  },
+  "84 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "85 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-deep-equal/3.1.3",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "86 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "fast-json-stable-stringify",
+      "rawSpec": "^2.0.0"
+    }
+  },
+  "87 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "88 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "json-schema-traverse",
+      "rawSpec": "^0.4.1"
+    }
+  },
+  "89 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "90 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/uri-js/4.4.1",
+    "wanted": {
+      "dependentId": "/ajv/6.12.6",
+      "name": "uri-js",
+      "rawSpec": "^4.2.2"
+    }
+  },
+  "91 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uri-js/4.4.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "92 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "wanted": {
+      "dependentId": "/espree/9.4.0",
+      "name": "eslint-visitor-keys",
+      "rawSpec": "^3.3.0"
+    }
+  },
+  "93 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "94 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/fast-json-stable-stringify/2.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "95 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/json-schema-traverse/0.4.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "96 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/parent-module/1.0.1",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "parent-module",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "97 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/parent-module/1.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "98 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/resolve-from/4.0.0",
+    "wanted": {
+      "dependentId": "/import-fresh/3.3.0",
+      "name": "resolve-from",
+      "rawSpec": "^4.0.0"
+    }
+  },
+  "99 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/resolve-from/4.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "100 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/uri-js/4.4.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "101 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/eslint-visitor-keys/3.3.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "102 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/parent-module/1.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "103 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/resolve-from/4.0.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "104 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/brace-expansion/1.1.11",
+    "wanted": {
+      "dependentId": "/minimatch/3.1.2",
+      "name": "brace-expansion",
+      "rawSpec": "^1.1.7"
+    }
+  },
+  "105 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "106 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/concat-map/0.0.1",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "concat-map",
+      "rawSpec": "0.0.1"
+    }
+  },
+  "107 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "108 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/brace-expansion/1.1.11",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "109 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/concat-map/0.0.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "110 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/type-fest/0.20.2",
+    "wanted": {
+      "dependentId": "/globals/13.17.0",
+      "name": "type-fest",
+      "rawSpec": "^0.20.2"
+    }
+  },
+  "111 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-fest/0.20.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "112 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/acorn/8.8.0",
+    "wanted": {
+      "dependentId": "/espree/9.4.0",
+      "name": "acorn",
+      "rawSpec": "^8.8.0"
+    }
+  },
+  "113 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn/8.8.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "114 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/type-fest/0.20.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "115 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn/8.8.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "116 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/punycode/2.1.1",
+    "wanted": {
+      "dependentId": "/uri-js/4.4.1",
+      "name": "punycode",
+      "rawSpec": "^2.1.0"
+    }
+  },
+  "117 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/punycode/2.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "118 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/callsites/3.1.0",
+    "wanted": {
+      "dependentId": "/parent-module/1.0.1",
+      "name": "callsites",
+      "rawSpec": "^3.0.0"
+    }
+  },
+  "119 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/callsites/3.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "120 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/punycode/2.1.1",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "121 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/callsites/3.1.0",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "122 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "wanted": {
+      "dependentId": "/espree/9.4.0",
+      "name": "acorn-jsx",
+      "rawSpec": "^5.3.2"
+    }
+  },
+  "123 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "124 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/acorn-jsx/5.3.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "125 debug pnpm:_dependency_resolved": {
+    "resolution": "registry.npmjs.org/balanced-match/1.0.2",
+    "wanted": {
+      "dependentId": "/brace-expansion/1.1.11",
+      "name": "balanced-match",
+      "rawSpec": "^1.0.0"
+    }
+  },
+  "126 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "resolved"
+  },
+  "127 debug pnpm:package-manifest": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "updated": {
+      "dependencies": {
+        "@eslint/create-config": "^0.3.1"
+      }
+    }
+  },
+  "128 debug pnpm:package-manifest": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "updated": {
+      "dependencies": {
+        "@eslint/create-config": "^0.3.1"
+      }
+    }
+  },
+  "129 debug pnpm:stage": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "stage": "resolution_done"
+  },
+  "130 debug pnpm:stats": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "removed": 0
+  },
+  "131 debug pnpm:stage": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "stage": "importing_started"
+  },
+  "132 debug pnpm:stats": {
+    "added": 40,
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492"
+  },
+  "133 debug pnpm:progress": {
+    "packageId": "registry.npmjs.org/balanced-match/1.0.2",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "found_in_store"
+  },
+  "134 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\@eslint\\eslintrc",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\@eslint\\eslintrc"
+  },
+  "135 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\cross-spawn",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\cross-spawn"
+  },
+  "136 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\debug@4.3.4\\node_modules\\debug",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\debug"
+  },
+  "137 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\enquirer@2.3.6\\node_modules\\enquirer",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\enquirer"
+  },
+  "138 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\js-yaml@4.1.0\\node_modules\\js-yaml",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\js-yaml"
+  },
+  "139 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-stable-stringify-without-jsonify@1.0.1\\node_modules\\json-stable-stringify-without-jsonify",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\json-stable-stringify-without-jsonify"
+  },
+  "140 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\semver@7.3.8\\node_modules\\semver",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\semver"
+  },
+  "141 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\ajv",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\ajv"
+  },
+  "142 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\debug@4.3.4\\node_modules\\debug",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\debug"
+  },
+  "143 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\espree",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\espree"
+  },
+  "144 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\globals@13.17.0\\node_modules\\globals",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\globals"
+  },
+  "145 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ignore@5.2.0\\node_modules\\ignore",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\ignore"
+  },
+  "146 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\import-fresh@3.3.0\\node_modules\\import-fresh",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\import-fresh"
+  },
+  "147 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\js-yaml@4.1.0\\node_modules\\js-yaml",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\js-yaml"
+  },
+  "148 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\minimatch@3.1.2\\node_modules\\minimatch",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\minimatch"
+  },
+  "149 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\strip-json-comments@3.1.1\\node_modules\\strip-json-comments",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\strip-json-comments"
+  },
+  "150 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-deep-equal@3.1.3\\node_modules\\fast-deep-equal",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\fast-deep-equal"
+  },
+  "151 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-json-stable-stringify@2.1.0\\node_modules\\fast-json-stable-stringify",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\fast-json-stable-stringify"
+  },
+  "152 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-schema-traverse@0.4.1\\node_modules\\json-schema-traverse",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\json-schema-traverse"
+  },
+  "153 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\uri-js@4.4.1\\node_modules\\uri-js",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\uri-js"
+  },
+  "154 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\punycode@2.1.1\\node_modules\\punycode",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\uri-js@4.4.1\\node_modules\\punycode"
+  },
+  "155 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn@8.8.0\\node_modules\\acorn",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\acorn"
+  },
+  "156 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn-jsx@5.3.2_acorn@8.8.0\\node_modules\\acorn-jsx",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\acorn-jsx"
+  },
+  "157 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\eslint-visitor-keys@3.3.0\\node_modules\\eslint-visitor-keys",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\eslint-visitor-keys"
+  },
+  "158 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn@8.8.0\\node_modules\\acorn",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn-jsx@5.3.2_acorn@8.8.0\\node_modules\\acorn"
+  },
+  "159 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\type-fest@0.20.2\\node_modules\\type-fest",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\globals@13.17.0\\node_modules\\type-fest"
+  },
+  "160 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\parent-module@1.0.1\\node_modules\\parent-module",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\import-fresh@3.3.0\\node_modules\\parent-module"
+  },
+  "161 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\resolve-from@4.0.0\\node_modules\\resolve-from",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\import-fresh@3.3.0\\node_modules\\resolve-from"
+  },
+  "162 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\callsites@3.1.0\\node_modules\\callsites",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\parent-module@1.0.1\\node_modules\\callsites"
+  },
+  "163 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\brace-expansion@1.1.11\\node_modules\\brace-expansion",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\minimatch@3.1.2\\node_modules\\brace-expansion"
+  },
+  "164 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\balanced-match@1.0.2\\node_modules\\balanced-match",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\brace-expansion@1.1.11\\node_modules\\balanced-match"
+  },
+  "165 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\concat-map@0.0.1\\node_modules\\concat-map",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\brace-expansion@1.1.11\\node_modules\\concat-map"
+  },
+  "166 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\path-key@3.1.1\\node_modules\\path-key",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\path-key"
+  },
+  "167 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-command@2.0.0\\node_modules\\shebang-command",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\shebang-command"
+  },
+  "168 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\which@2.0.2\\node_modules\\which",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\which"
+  },
+  "169 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-regex@3.0.0\\node_modules\\shebang-regex",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-command@2.0.0\\node_modules\\shebang-regex"
+  },
+  "170 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\isexe@2.0.0\\node_modules\\isexe",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\which@2.0.2\\node_modules\\isexe"
+  },
+  "171 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ms@2.1.2\\node_modules\\ms",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\debug@4.3.4\\node_modules\\ms"
+  },
+  "172 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ansi-colors@4.1.3\\node_modules\\ansi-colors",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\enquirer@2.3.6\\node_modules\\ansi-colors"
+  },
+  "173 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\argparse@2.0.1\\node_modules\\argparse",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\js-yaml@4.1.0\\node_modules\\argparse"
+  },
+  "174 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\lru-cache@6.0.0\\node_modules\\lru-cache",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\semver@7.3.8\\node_modules\\lru-cache"
+  },
+  "175 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\yallist@4.0.0\\node_modules\\yallist",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\lru-cache@6.0.0\\node_modules\\yallist"
+  },
+  "176 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "177 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\punycode@2.1.1\\node_modules\\punycode"
+  },
+  "178 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "179 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn-jsx@5.3.2_acorn@8.8.0\\node_modules\\acorn-jsx"
+  },
+  "180 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "181 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ignore@5.2.0\\node_modules\\ignore"
+  },
+  "182 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "183 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\import-fresh@3.3.0\\node_modules\\import-fresh"
+  },
+  "184 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "185 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\globals@13.17.0\\node_modules\\globals"
+  },
+  "186 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "187 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-json-stable-stringify@2.1.0\\node_modules\\fast-json-stable-stringify"
+  },
+  "188 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "189 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\espree"
+  },
+  "190 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\callsites@3.1.0\\node_modules\\callsites"
+  },
+  "191 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "192 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn@8.8.0\\node_modules\\acorn"
+  },
+  "193 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "194 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-deep-equal@3.1.3\\node_modules\\fast-deep-equal"
+  },
+  "195 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "196 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\eslint-visitor-keys@3.3.0\\node_modules\\eslint-visitor-keys"
+  },
+  "197 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\resolve-from@4.0.0\\node_modules\\resolve-from"
+  },
+  "198 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\minimatch@3.1.2\\node_modules\\minimatch"
+  },
+  "199 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "200 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\type-fest@0.20.2\\node_modules\\type-fest"
+  },
+  "201 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\brace-expansion@1.1.11\\node_modules\\brace-expansion"
+  },
+  "202 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "203 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\@eslint\\eslintrc"
+  },
+  "204 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\parent-module@1.0.1\\node_modules\\parent-module"
+  },
+  "205 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "206 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-schema-traverse@0.4.1\\node_modules\\json-schema-traverse"
+  },
+  "207 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "208 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\ajv"
+  },
+  "209 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\strip-json-comments@3.1.1\\node_modules\\strip-json-comments"
+  },
+  "210 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\path-key@3.1.1\\node_modules\\path-key"
+  },
+  "211 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\balanced-match@1.0.2\\node_modules\\balanced-match"
+  },
+  "212 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-regex@3.0.0\\node_modules\\shebang-regex"
+  },
+  "213 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\concat-map@0.0.1\\node_modules\\concat-map"
+  },
+  "214 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "215 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\@eslint\\create-config"
+  },
+  "216 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-command@2.0.0\\node_modules\\shebang-command"
+  },
+  "217 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\cross-spawn"
+  },
+  "218 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\which@2.0.2\\node_modules\\which"
+  },
+  "219 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ms@2.1.2\\node_modules\\ms"
+  },
+  "220 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\debug@4.3.4\\node_modules\\debug"
+  },
+  "221 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\isexe@2.0.0\\node_modules\\isexe"
+  },
+  "222 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\enquirer@2.3.6\\node_modules\\enquirer"
+  },
+  "223 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ansi-colors@4.1.3\\node_modules\\ansi-colors"
+  },
+  "224 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\js-yaml@4.1.0\\node_modules\\js-yaml"
+  },
+  "225 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\lru-cache@6.0.0\\node_modules\\lru-cache"
+  },
+  "226 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\argparse@2.0.1\\node_modules\\argparse"
+  },
+  "227 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-stable-stringify-without-jsonify@1.0.1\\node_modules\\json-stable-stringify-without-jsonify"
+  },
+  "228 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\yallist@4.0.0\\node_modules\\yallist"
+  },
+  "229 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\semver@7.3.8\\node_modules\\semver"
+  },
+  "230 debug pnpm:package-import-method": {
+    "method": "hardlink"
+  },
+  "231 debug pnpm:progress": {
+    "method": "hardlink",
+    "requester": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "status": "imported",
+    "to": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\uri-js@4.4.1\\node_modules\\uri-js"
+  },
+  "232 debug pnpm:stage": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492",
+    "stage": "importing_done"
+  },
+  "233 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+create-config@0.3.1\\node_modules\\@eslint\\create-config",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\@eslint\\create-config"
+  },
+  "234 debug pnpm:root": {
+    "added": {
+      "dependencyType": "prod",
+      "id": "registry.npmjs.org/@eslint/create-config/0.3.1",
+      "name": "@eslint/create-config",
+      "realName": "@eslint/create-config",
+      "version": "0.3.1"
+    },
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492"
+  },
+  "235 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\@eslint+eslintrc@1.3.3\\node_modules\\@eslint\\eslintrc",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\@eslint\\eslintrc"
+  },
+  "236 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\cross-spawn@7.0.3\\node_modules\\cross-spawn",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\cross-spawn"
+  },
+  "237 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\debug@4.3.4\\node_modules\\debug",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\debug"
+  },
+  "238 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\enquirer@2.3.6\\node_modules\\enquirer",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\enquirer"
+  },
+  "239 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\js-yaml@4.1.0\\node_modules\\js-yaml",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\js-yaml"
+  },
+  "240 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-stable-stringify-without-jsonify@1.0.1\\node_modules\\json-stable-stringify-without-jsonify",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\json-stable-stringify-without-jsonify"
+  },
+  "241 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\semver@7.3.8\\node_modules\\semver",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\semver"
+  },
+  "242 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ajv@6.12.6\\node_modules\\ajv",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\ajv"
+  },
+  "243 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\espree@9.4.0\\node_modules\\espree",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\espree"
+  },
+  "244 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\globals@13.17.0\\node_modules\\globals",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\globals"
+  },
+  "245 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ignore@5.2.0\\node_modules\\ignore",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\ignore"
+  },
+  "246 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\import-fresh@3.3.0\\node_modules\\import-fresh",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\import-fresh"
+  },
+  "247 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\minimatch@3.1.2\\node_modules\\minimatch",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\minimatch"
+  },
+  "248 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\strip-json-comments@3.1.1\\node_modules\\strip-json-comments",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\strip-json-comments"
+  },
+  "249 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\path-key@3.1.1\\node_modules\\path-key",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\path-key"
+  },
+  "250 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-command@2.0.0\\node_modules\\shebang-command",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\shebang-command"
+  },
+  "251 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\which@2.0.2\\node_modules\\which",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\which"
+  },
+  "252 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ms@2.1.2\\node_modules\\ms",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\ms"
+  },
+  "253 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\ansi-colors@4.1.3\\node_modules\\ansi-colors",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\ansi-colors"
+  },
+  "254 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\argparse@2.0.1\\node_modules\\argparse",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\argparse"
+  },
+  "255 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\lru-cache@6.0.0\\node_modules\\lru-cache",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\lru-cache"
+  },
+  "256 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-deep-equal@3.1.3\\node_modules\\fast-deep-equal",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\fast-deep-equal"
+  },
+  "257 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\fast-json-stable-stringify@2.1.0\\node_modules\\fast-json-stable-stringify",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\fast-json-stable-stringify"
+  },
+  "258 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\json-schema-traverse@0.4.1\\node_modules\\json-schema-traverse",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\json-schema-traverse"
+  },
+  "259 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\uri-js@4.4.1\\node_modules\\uri-js",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\uri-js"
+  },
+  "260 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn@8.8.0\\node_modules\\acorn",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\acorn"
+  },
+  "261 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\acorn-jsx@5.3.2_acorn@8.8.0\\node_modules\\acorn-jsx",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\acorn-jsx"
+  },
+  "262 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\eslint-visitor-keys@3.3.0\\node_modules\\eslint-visitor-keys",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\eslint-visitor-keys"
+  },
+  "263 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\type-fest@0.20.2\\node_modules\\type-fest",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\type-fest"
+  },
+  "264 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\parent-module@1.0.1\\node_modules\\parent-module",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\parent-module"
+  },
+  "265 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\resolve-from@4.0.0\\node_modules\\resolve-from",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\resolve-from"
+  },
+  "266 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\yallist@4.0.0\\node_modules\\yallist",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\yallist"
+  },
+  "267 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\brace-expansion@1.1.11\\node_modules\\brace-expansion",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\brace-expansion"
+  },
+  "268 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\shebang-regex@3.0.0\\node_modules\\shebang-regex",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\shebang-regex"
+  },
+  "269 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\isexe@2.0.0\\node_modules\\isexe",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\isexe"
+  },
+  "270 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\balanced-match@1.0.2\\node_modules\\balanced-match",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\balanced-match"
+  },
+  "271 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\concat-map@0.0.1\\node_modules\\concat-map",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\concat-map"
+  },
+  "272 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\callsites@3.1.0\\node_modules\\callsites",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\callsites"
+  },
+  "273 debug pnpm:link": {
+    "target": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\punycode@2.1.1\\node_modules\\punycode",
+    "link": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.pnpm\\node_modules\\punycode"
+  },
+  "274 debug pnpm:summary": {
+    "prefix": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492"
+  },
+  "275 error pnpm": {
+    "shortMessage": "Command failed with exit code 1: C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.bin\\create-config.CMD",
+    "command": "C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.bin\\create-config.CMD",
+    "escapedCommand": "\"C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.bin\\create-config.CMD\"",
+    "exitCode": 1,
+    "failed": true,
+    "timedOut": false,
+    "isCanceled": false,
+    "killed": false,
+    "err": {
+      "name": "pnpm",
+      "message": "Command failed with exit code 1: C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.bin\\create-config.CMD",
+      "stack": "pnpm: Command failed with exit code 1: C:\\Users\\arthur\\AppData\\Local\\pnpm\\store\\v3\\tmp\\dlx-18492\\node_modules\\.bin\\create-config.CMD\n    at makeError (C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:22159:17)\n    at handlePromise (C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:22730:33)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async Object.handler (C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:184019:7)\n    at async C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:192593:21\n    at async run (C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:192567:34)\n    at async runPnpm (C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:192785:5)\n    at async C:\\Users\\arthur\\AppData\\Roaming\\npm\\node_modules\\pnpm\\dist\\pnpm.cjs:192777:7"
+    }
+  }
+}

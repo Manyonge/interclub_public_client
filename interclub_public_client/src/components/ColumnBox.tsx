@@ -4,10 +4,11 @@ import React from "react";
 interface Props {
   children: any;
   styles?: any;
+  borderTest?: boolean;
 }
 
 function ColumnBox(props: Props) {
-  const { children, styles } = props;
+  const { children, styles, borderTest } = props;
 
   return (
     <Box
@@ -19,6 +20,7 @@ function ColumnBox(props: Props) {
         flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
+        border: borderTest ? "2px solid black" : "none",
       }}
     >
       {children}

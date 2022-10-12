@@ -39,7 +39,7 @@ function BurgerMenu(props: Props) {
   );
 
   return (
-    <AppBar>
+    <AppBar position="sticky">
       <RowBox
         styles={{
           px: "1rem",

@@ -30,11 +30,12 @@ function App() {
         <CssBaseline />
         <BrowserRouter>
           <Routes>
-            <Route path="/" element={<Welcome />}>
-              <Route path="leagues" element={<Leagues />}>
-                <Route path=":acronym/calendar" element={<LeagueCalendar />} />
-              </Route>
-            </Route>
+            <Route path="/" element={<Welcome />} />
+            <Route path="/leagues" element={<Leagues />} />
+            <Route
+              path="/leagues/:acronym/calendar"
+              element={<LeagueCalendar />}
+            />
           </Routes>
         </BrowserRouter>
       </ThemeProvider>

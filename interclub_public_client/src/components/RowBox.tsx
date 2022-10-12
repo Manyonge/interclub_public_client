@@ -4,10 +4,11 @@ import React from "react";
 interface Props {
   children: any;
   styles: any;
+  borderTest?: boolean;
 }
 
 function RowBox(props: Props) {
-  const { children, styles } = props;
+  const { children, styles, borderTest } = props;
 
   return (
     <Box
@@ -17,6 +18,7 @@ function RowBox(props: Props) {
         flexDirection: "row",
         alignItems: "center",
         justifyContent: "center",
+        border: borderTest ? "2px solid black" : "none",
       }}
     >
       {" "}

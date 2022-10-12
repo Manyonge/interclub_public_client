@@ -86,7 +86,7 @@ function AppContainer(props: Props) {
             <ContainedRoundedButton
               styles={{ mt: "3rem" }}
               onClick={() => {
-                navigate("leagues");
+                navigate("/leagues");
               }}
             >
               Leagues menu

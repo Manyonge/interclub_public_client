@@ -16,6 +16,7 @@ function RowBox(props: Props) {
         display: "flex",
         flexDirection: "row",
         alignItems: "center",
+        justifyContent: "center",
       }}
     >
       {" "}
